@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@200..800&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.content{
+    width: 100%;
+}
+.con{
+    max-width: 1300px;
+    margin: auto;
+    padding: 3vw 0;
+}
+header{
+    padding: 3vw 0;
+    border-bottom:6px solid #1a1919;
+}
+.title{
+    font-size: 4rem;
+    color: #1a1919;
+}
+.text{
+    font-family: "Assistant", sans-serif;
+    line-height: 1.5;
+    margin-top: 30px;
+}
+.sm_title{
+    font-size: 2rem;
+    color: #1a1919;
+    margin-top: 40px;
+}
+.text a{
+    color: #32864b;
+    font-style: italic;
+}
+.text span{
+    font-family: "Calibri Light";
+}
+footer{
+    width: 100%;
+    padding: 3vw 0;
+    background: #1A1919;
+}
+.footer_con{
+    max-width: 1300px;
+    margin: auto;
+    color: white;
+}
+.footer_con h3{
+    font-family: Arial;
+}
+.footer_con p{
+    font-family: "Calibri Light";
+    line-height: 1.5;
+    margin-top: 10px;
+}
+.line_text{
+    font-family: "Calibri Light";
+    margin-top: 30px;
+    font-style: italic;
+}
+.line_text span{
+    color: #32864b;
+    font-size: 20px;
+    margin-left: 10px;
+    font-family: 'Assistant';
+}
+img{
+    width: 30%;
+    display: block;
+    margin: 30px auto;
+}
